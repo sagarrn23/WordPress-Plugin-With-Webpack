@@ -1,5 +1,5 @@
 {
-  "name": "Wordpress Plugin with Webpack",
+  "name": "wordpress-plugin-with-webpack",
   "version": "1.0.0",
   "description": "Starter wordpress plugin with all configuration of webpack.",
   "scripts": {
